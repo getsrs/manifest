@@ -1,0 +1,20 @@
+{
+  "name": "BHAGWATI GUEST HOUSE",
+  "short_name": "BGH",
+  "start_url": "https://bhagwatilodge.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9F_57u-SP33zjHSNAmiKvqxc8FGflcLszmWwbnECBljz9Ywp2L3FBwH5OGhkoDClQbKoChrBgdb-WxPxZLjg7y0oFoBsFC_Fb07QCwynxz2VZbpQbSpK7BXmcedaPlvlhJBjDtVU5jvi4QgML3puckgqhXe6RIiYGs7amHkXy4LOj5tVrdTmCuTyL_v0/s507/ei_1700927015411-removebg-preview.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9F_57u-SP33zjHSNAmiKvqxc8FGflcLszmWwbnECBljz9Ywp2L3FBwH5OGhkoDClQbKoChrBgdb-WxPxZLjg7y0oFoBsFC_Fb07QCwynxz2VZbpQbSpK7BXmcedaPlvlhJBjDtVU5jvi4QgML3puckgqhXe6RIiYGs7amHkXy4LOj5tVrdTmCuTyL_v0/s507/ei_1700927015411-removebg-preview.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
